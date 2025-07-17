@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-working on chiness chess bot on discord with Java…<br><br>———<br><br>student of DTSH in Taiwan
+Yo, I just finish a short link service, check it out -> https://rwlink.us.kg<br><br>———<br><br>student of DTSH in Taiwan
 
 
 ## 🌐 Socials:
