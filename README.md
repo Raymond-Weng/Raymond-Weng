@@ -1,25 +1,30 @@
 
-# 💫 About Me:
-Yo, I just finish a short link service, check it out -> https://rwlink.us.kg<br><br>———<br><br>student of DTSH in Taiwan
+# Raymond Weng (翁宇鴻)
+Competitive Programming Player | Java Developer | Student of DTSH
 
+## About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://rwlink.us.kg/discord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymondwengcode) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raymondwengcode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@raymondwengcode) 
+我是
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raymond-weng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raymond-weng&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-weng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Bio
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+臺北市立大同高級中學(DTSH) 2023 - NOW
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raymond-weng&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Best Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=raymond-weng&icon=0&color=0)](https://visitcount.itsvg.in)
+- [JGame Library Lite](https://github.com/Raymond-Weng/JGame-Library-Lite): Java的PyGame
+- [rwlink](https://github.com/Raymond-Weng/New-Short-Link): 結合Discord bot和網站的短網址系統
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Experience
+
+2024.09.01\~2025.06.30 大同高中資訊社簡報製作  
+2024.01.29\~2024.01.30 大同高中國中部程式設計兩日課程助教  
+
+## Contest
+
+2024 - 113學年度資訊學科能力競賽大同高中校內預選 rk.1  
+2024 - 第十屆國立成功大學暑期高中生程式設計邀請賽-初賽 rk.70/181  
+2024 - 113學年度榕資盃 第三名  
+2024 - 113學年度臺北市普通型高級中學資訊學科能力競賽佳作 rk.33/130  
+2023 - 112學年度資訊學科能力競賽大同高中校內預選 rk.3  
+2023 - 112學年度榕資盃 rk.5  
