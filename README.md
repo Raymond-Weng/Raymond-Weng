@@ -4,7 +4,13 @@ Competitive Programming Player | Java Developer | Student of DTSH
 
 ## About Me
 
-我是
+我是臺北市立大同高中學生，喜歡寫程式，有很多莫名其妙的想法...  
+
+熟悉 Java/Python  
+熟悉 C++ (競賽程式部分)  
+會用 SQL  
+會讀 html  
+會寫 Markdown
 
 ## Bio
 
