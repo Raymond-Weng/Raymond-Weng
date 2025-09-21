@@ -1,6 +1,6 @@
 
 # Raymond Weng (翁宇鴻)
-Competitive Programming Player | Java Developer | Student of DTSH
+Competitive Programming Player | Java Developer | Student of DTSH  
 Video Editor | Martial Art Player
 
 ## About Me
