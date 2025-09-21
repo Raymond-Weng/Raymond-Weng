@@ -7,11 +7,9 @@ Video Editor | Martial Art Player
 
 我是臺北市立大同高中學生，喜歡寫程式，有很多莫名其妙的想法...  
 
-熟悉 Java/Python  
-熟悉 C++ (競賽程式部分)  
-會用 SQL  
-會讀 html  
-會寫 Markdown
+熟悉 Java 專案  
+熟悉 Python C++ 競賽程式  
+資料庫跟網頁普通程度  
 
 ## Bio
 
