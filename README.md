@@ -27,6 +27,13 @@ Video Editor | Martial Art Player
 2025.09.25 日本狛江高校至臺北市立大同高中參訪 武術表演  
 2024.09.01\~2025.06.30 臺北市立大同高中資訊社簡報製作  
 2024.01.29\~2024.01.30 臺北市立大同高中國中部程式設計兩日課程助教  
+2023.09.15\~2025.01.20 臺北市立大同高中校級幹部文書組組員
+
+## Verification
+
+APCS 觀念4 實作3  
+TOEIC 790分藍色證書
+
 
 ## Contest (Programming)
 
@@ -40,4 +47,8 @@ Video Editor | Martial Art Player
 ## Contest (Others)
 2025 - BenQ MA亂剪大賽 [rk.4](https://youtu.be/J0XlvCpXB-0?si=stEyJtbTivGTmBoG)/26  
 2024 - 113全民運動會國術項目(臺北市代表隊) 男子南拳 [rk.13](https://www.youtube.com/watch?v=iM_OswxoUio)/13  
+2024 - BeBras 113學年度國際運算思維挑戰賽 senior 組 全國PR.97  
 2023 - 113全民運動會臺北市代表隊選拔 男子南拳 rk.1/4  
+2023 - BeBras 112學年度國際運算思維挑戰賽 九、十年級組 全國PR.93  
+
+#
