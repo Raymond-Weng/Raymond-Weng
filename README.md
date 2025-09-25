@@ -22,7 +22,7 @@ Video Editor | Martial Art Player
 
 ## Experience
 
-2025.09.25 日本狛江高校至臺北市立大同高中參訪 ［武術表演］(https://youtu.be/KBLUob7YuGA)  
+2025.09.25 日本狛江高校至臺北市立大同高中參訪 [武術表演](https://youtu.be/KBLUob7YuGA)  
 2025.06.06 臺北市立大同高中集會 [武術表演](https://youtu.be/-R7lVQkacX4)  
 2024.09.01\~2025.06.30 臺北市立大同高中資訊社簡報製作  
 2024.01.29\~2024.01.30 臺北市立大同高中國中部程式設計兩日課程助教  
