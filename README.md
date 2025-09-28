@@ -7,10 +7,6 @@ Video Editor | Martial Art Player
 
 我是臺北市立大同高中學生，喜歡電腦、程式之類的，就是天賦點跑到了很多神奇的地方。  
 
-熟悉 Java 專案製作  
-熟悉 Python C++ 競賽程式  
-資料庫跟網頁普通程度  
-
 ## Bio
 
 臺北市立大同高級中學(DTSH) 2023 - NOW
@@ -54,3 +50,14 @@ TOEIC 790分藍色證書
 2024 - 臺北市 113 學年度教育盃中等學校武術錦標賽 長兵 rk.1  
 2023 - 臺北市112學年度教育盃中等學校武術錦標賽 長兵 rk.2  
 2023 - 113全民運動會臺北市代表隊選拔 男子南拳 rk.1/4  
+
+## Tools / Skills
+
+專案：Java, Python, SQL  
+Java：JDA, Spring boot（基礎）, swing  
+競程：Python, C++  
+只會讀：Html  
+伺服器：Synology Nas, Docker  
+剪輯：Davinci Resolve  
+攝影：IPhone原相機, Black Magic Camera  
+系統（使用）：Windows, MacOS  
