@@ -23,7 +23,7 @@ Video Editor | Martial Art Player
 2025.06.06 臺北市立大同高中集會 [武術表演](https://youtu.be/-R7lVQkacX4)  
 ***2024.09.01\~2025.06.30 臺北市立大同高中資訊社簡報製作***  
 2024.01.29\~2024.01.30 臺北市立大同高中國中部程式設計兩日課程助教  
-2023.11.11 大同高中校慶 製作[園遊會點餐機DOS系統](https://github.com/Raymond-Weng/Ordering-System)
+2023.11.11 大同高中校慶 製作[園遊會點餐機DOS系統](https://github.com/Raymond-Weng/Ordering-System)  
 2023.09.15\~2025.01.20 臺北市立大同高中校級幹部文書組組員  
 2023.07.05\~2025.07.08 淡江教會桃園堂「[情緒探險家](https://www.youtube.com/@qingxuguanli)」活動攝影、剪輯、社群經營  
 
