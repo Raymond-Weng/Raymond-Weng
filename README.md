@@ -53,6 +53,10 @@ TOEIC 790分藍色證書
 2023 - 臺北市112學年度教育盃中等學校武術錦標賽 長兵 rk.2  
 2023 - 113全民運動會臺北市代表隊選拔 男子南拳 rk.1/4  
 
+## Leetcode progress...
+
+![LeetCode Stats](https://leetcode.card.workers.dev/RaymondWeng?theme=dark&font=baloo&extension=activity)
+
 ## Tools / Skills
 
 專案：Java, Python, SQL  
