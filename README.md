@@ -47,7 +47,7 @@ TOEIC 790分藍色證書
 ## Contest (Others)
 ***2025 - 臺北市立大同高級中學114學年度第二十屆榕數盃數學競賽 佳作 rk.5/81***  
 ***2024 - 校內國語文競賽 演說 rk.2***  
-***2024 - 113全民運動會國術項目(臺北市代表隊) 男子南拳 [rk.13](https://www.youtube.com/watch?v=iM_OswxoUio)/13***  
+***2024 - 113全民運動會國術項目(臺北市代表隊) 男子南拳 [rk.12](https://www.youtube.com/watch?v=iM_OswxoUio)/14***  
 2025 - BenQ MA亂剪大賽 [rk.4](https://youtu.be/J0XlvCpXB-0?si=stEyJtbTivGTmBoG)/26  
 2024 - 臺北市 113 學年度教育盃中等學校武術錦標賽 長兵 rk.1  
 2023 - 臺北市112學年度教育盃中等學校武術錦標賽 長兵 rk.2  
