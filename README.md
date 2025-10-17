@@ -9,7 +9,8 @@ Video Editor | Martial Art Player
 
 ## Bio
 
-臺北市立大同高級中學(DTSH) 2023 - NOW
+臺北市立大同高級中學(DTSH) 2023 - NOW  
+臺北市立敦化國民中學(THJH) 2020 - 2023
 
 ## Best Projects
 
