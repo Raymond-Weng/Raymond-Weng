@@ -18,15 +18,15 @@ Video Editor | Martial Art Player
 - [rwlink](https://github.com/Raymond-Weng/New-Short-Link): 結合Discord bot和網站的短網址系統
 
 ## Experiences
-### 武術表演
-***2025.09.25 日本東京都立狛江高校來訪臺北市立大同高級中學 [武術表演](https://youtu.be/KBLUob7YuGA)***  
-2025.06.06 臺北市立大同高中集會 [武術表演](https://youtu.be/-R7lVQkacX4)  
-
 ### 程式設計
 2025.06.20 市立大同高中 高二自主學習靜態發表 優秀作品  
 ***2024.09.01\~2025.06.30 臺北市立大同高中資訊社簡報製作***  
 2024.01.29\~2024.01.30 臺北市立大同高中國中部程式設計兩日課程助教  
 2023.11.11 大同高中校慶 製作[園遊會點餐機DOS系統](https://github.com/Raymond-Weng/Ordering-System)  
+
+### 武術表演
+***2025.09.25 日本東京都立狛江高校來訪臺北市立大同高級中學 [武術表演](https://youtu.be/KBLUob7YuGA)***  
+2025.06.06 臺北市立大同高中集會 [武術表演](https://youtu.be/-R7lVQkacX4)  
 
 ### 活動工作人員
 2023.07.05\~2025.07.08 淡江教會桃園堂「[情緒探險家](https://www.youtube.com/@qingxuguanli)」活動攝影、剪輯、社群經營  
@@ -41,7 +41,6 @@ TOEIC 790分藍色證書
 全民英檢中級通過  
 
 ## Contests
-
 ### 程式設計
 ***2025 - 114學年度資訊學科能力競賽大同高中校內預選 rk.1***  
 2024 - BeBras 113學年度國際運算思維挑戰賽 senior 組 全國PR.97  
