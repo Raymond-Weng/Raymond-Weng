@@ -1,12 +1,12 @@
 
-# Raymond Weng (翁宇鴻)
+# Raymond Weng
 Competitive Programming Player | Java Developer | Student of DTSH  
 Video Editor | Martial Art Player
 
 ## About Me
 
 我是臺北市立大同高中學生，喜歡電腦、程式之類的，就是天賦點跑到了很多神奇的地方。  
-最近剛開始寫的[blog](https://raymond-weng.github.io/)
+最近剛開始寫的[blog](https://raymond-weng.github.io/)  
 
 ## Bio
 
@@ -25,9 +25,10 @@ Video Editor | Martial Art Player
 2024.01.29\~2024.01.30 臺北市立大同高中國中部程式設計兩日課程助教  
 2023.11.11 大同高中校慶 製作[園遊會點餐機DOS系統](https://github.com/Raymond-Weng/Ordering-System)  
 
-### 武術表演
+### 武術
 ***2025.09.25 日本東京都立狛江高校來訪臺北市立大同高級中學 [武術表演](https://youtu.be/KBLUob7YuGA)***  
 2025.06.06 臺北市立大同高中集會 [武術表演](https://youtu.be/-R7lVQkacX4)  
+***2024.10.28~2024.10.30 113全民運動會臺北市代表隊員 國術男子男拳***  
 
 ### 活動工作人員
 2023.07.05\~2025.07.08 淡江教會桃園堂「[情緒探險家](https://www.youtube.com/@qingxuguanli)」活動攝影、剪輯、社群經營  
