@@ -6,6 +6,7 @@ Video Editor | Martial Art Player
 ## About Me
 
 我是臺北市立大同高中學生，喜歡電腦、程式之類的，就是天賦點跑到了很多神奇的地方。  
+最近剛開始寫的[blog](https://raymond-weng.github.io/)
 
 ## Bio
 
