@@ -6,5 +6,5 @@ Video Editor | Martial Art Player
 # LINKS
 - About me: https://rwc.dpdns.org/about/
 - Blog: https://rwc.dpdns.org/
-- Online Monitor: https://status.rwc.dpdns.org/ (https sign up on progress, try [http one](http://status.rwc.dpdns.org/) before it works)
+- Online Monitor: https://status.rwc.dpdns.org/
 - A powerful link shortening service: https://rwlink.us.kg/
