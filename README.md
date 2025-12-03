@@ -8,6 +8,6 @@ Video Editor | Martial Art Player
 - Blog: https://rww.qzz.io/
 - Online Monitor: https://rww.qzz.io/upptime/
 - A powerful link shortening service: https://rwlink.us.kg/
-- Problems witten by me: https://judge.rww.qzz.io/
+- Problems witten by me: https://oj.gugugaga.net/
 
 # APCS滿分5+5了！
