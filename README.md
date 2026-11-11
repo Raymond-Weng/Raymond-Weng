@@ -92,10 +92,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [關於我如何透過Claude學習競賽程式，而不是直接解題](https://raymondweng.dev/posts/cs-hint/)
+- [［原創題］守護者公會駐軍要塞 - 提示、題解](https://raymondweng.dev/posts/gugugaga12/)
 - [特選沒上完的局，我在個申補完：115資工APCS組及一般組五間面試紀錄](https://raymondweng.dev/posts/Individual-Application/)
+- [［原創題］這是一個簡單的題目 - 提示、題解](https://raymondweng.dev/posts/gugugaga11/)
 - [簡報不用排版！一鍵輸出pdf！Marp介紹與使用心得](https://raymondweng.dev/posts/marp/)
-- [和朋友一起玩Minecraft SMP指北、雷點：一個寒假的開服經驗帶給我的學習，也帶給你](https://raymondweng.dev/posts/minecraft-smp/)
-- [2026TOI資訊奧林匹亞初選題目](https://raymondweng.dev/posts/2026toi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub
